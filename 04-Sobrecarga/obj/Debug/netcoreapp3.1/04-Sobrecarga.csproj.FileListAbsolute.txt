@@ -1,0 +1,12 @@
+C:\Projetos\Estudos\C#\Fundamentos\04-Sobrecarga\bin\Debug\netcoreapp3.1\04-Sobrecarga.exe
+C:\Projetos\Estudos\C#\Fundamentos\04-Sobrecarga\bin\Debug\netcoreapp3.1\04-Sobrecarga.deps.json
+C:\Projetos\Estudos\C#\Fundamentos\04-Sobrecarga\bin\Debug\netcoreapp3.1\04-Sobrecarga.runtimeconfig.json
+C:\Projetos\Estudos\C#\Fundamentos\04-Sobrecarga\bin\Debug\netcoreapp3.1\04-Sobrecarga.runtimeconfig.dev.json
+C:\Projetos\Estudos\C#\Fundamentos\04-Sobrecarga\bin\Debug\netcoreapp3.1\04-Sobrecarga.dll
+C:\Projetos\Estudos\C#\Fundamentos\04-Sobrecarga\bin\Debug\netcoreapp3.1\04-Sobrecarga.pdb
+C:\Projetos\Estudos\C#\Fundamentos\04-Sobrecarga\obj\Debug\netcoreapp3.1\04-Sobrecarga.AssemblyInfoInputs.cache
+C:\Projetos\Estudos\C#\Fundamentos\04-Sobrecarga\obj\Debug\netcoreapp3.1\04-Sobrecarga.AssemblyInfo.cs
+C:\Projetos\Estudos\C#\Fundamentos\04-Sobrecarga\obj\Debug\netcoreapp3.1\04-Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudos\C#\Fundamentos\04-Sobrecarga\obj\Debug\netcoreapp3.1\04-Sobrecarga.dll
+C:\Projetos\Estudos\C#\Fundamentos\04-Sobrecarga\obj\Debug\netcoreapp3.1\04-Sobrecarga.pdb
+C:\Projetos\Estudos\C#\Fundamentos\04-Sobrecarga\obj\Debug\netcoreapp3.1\04-Sobrecarga.genruntimeconfig.cache

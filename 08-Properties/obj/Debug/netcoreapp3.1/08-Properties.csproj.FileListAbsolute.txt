@@ -1,0 +1,12 @@
+C:\Projetos\Estudos\C#\Fundamentos\08-Properties\bin\Debug\netcoreapp3.1\08-Properties.exe
+C:\Projetos\Estudos\C#\Fundamentos\08-Properties\bin\Debug\netcoreapp3.1\08-Properties.deps.json
+C:\Projetos\Estudos\C#\Fundamentos\08-Properties\bin\Debug\netcoreapp3.1\08-Properties.runtimeconfig.json
+C:\Projetos\Estudos\C#\Fundamentos\08-Properties\bin\Debug\netcoreapp3.1\08-Properties.runtimeconfig.dev.json
+C:\Projetos\Estudos\C#\Fundamentos\08-Properties\bin\Debug\netcoreapp3.1\08-Properties.dll
+C:\Projetos\Estudos\C#\Fundamentos\08-Properties\bin\Debug\netcoreapp3.1\08-Properties.pdb
+C:\Projetos\Estudos\C#\Fundamentos\08-Properties\obj\Debug\netcoreapp3.1\08-Properties.AssemblyInfoInputs.cache
+C:\Projetos\Estudos\C#\Fundamentos\08-Properties\obj\Debug\netcoreapp3.1\08-Properties.AssemblyInfo.cs
+C:\Projetos\Estudos\C#\Fundamentos\08-Properties\obj\Debug\netcoreapp3.1\08-Properties.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudos\C#\Fundamentos\08-Properties\obj\Debug\netcoreapp3.1\08-Properties.dll
+C:\Projetos\Estudos\C#\Fundamentos\08-Properties\obj\Debug\netcoreapp3.1\08-Properties.pdb
+C:\Projetos\Estudos\C#\Fundamentos\08-Properties\obj\Debug\netcoreapp3.1\08-Properties.genruntimeconfig.cache
