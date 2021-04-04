@@ -1,0 +1,13 @@
+C:\Projetos\Estudos\C#\Fundamentos\13-Arrays02\bin\Debug\netcoreapp3.1\13-Arrays02.exe
+C:\Projetos\Estudos\C#\Fundamentos\13-Arrays02\bin\Debug\netcoreapp3.1\13-Arrays02.deps.json
+C:\Projetos\Estudos\C#\Fundamentos\13-Arrays02\bin\Debug\netcoreapp3.1\13-Arrays02.runtimeconfig.json
+C:\Projetos\Estudos\C#\Fundamentos\13-Arrays02\bin\Debug\netcoreapp3.1\13-Arrays02.runtimeconfig.dev.json
+C:\Projetos\Estudos\C#\Fundamentos\13-Arrays02\bin\Debug\netcoreapp3.1\13-Arrays02.dll
+C:\Projetos\Estudos\C#\Fundamentos\13-Arrays02\bin\Debug\netcoreapp3.1\13-Arrays02.pdb
+C:\Projetos\Estudos\C#\Fundamentos\13-Arrays02\obj\Debug\netcoreapp3.1\13-Arrays02.csprojAssemblyReference.cache
+C:\Projetos\Estudos\C#\Fundamentos\13-Arrays02\obj\Debug\netcoreapp3.1\13-Arrays02.AssemblyInfoInputs.cache
+C:\Projetos\Estudos\C#\Fundamentos\13-Arrays02\obj\Debug\netcoreapp3.1\13-Arrays02.AssemblyInfo.cs
+C:\Projetos\Estudos\C#\Fundamentos\13-Arrays02\obj\Debug\netcoreapp3.1\13-Arrays02.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudos\C#\Fundamentos\13-Arrays02\obj\Debug\netcoreapp3.1\13-Arrays02.dll
+C:\Projetos\Estudos\C#\Fundamentos\13-Arrays02\obj\Debug\netcoreapp3.1\13-Arrays02.pdb
+C:\Projetos\Estudos\C#\Fundamentos\13-Arrays02\obj\Debug\netcoreapp3.1\13-Arrays02.genruntimeconfig.cache
