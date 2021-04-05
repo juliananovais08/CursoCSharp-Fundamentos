@@ -23,23 +23,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-AutoProperties", "09-Aut
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-Tipos", "10-Tipos\10-Tipos.csproj", "{A3FB107F-253C-47EF-9A27-1A66E4C27B3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-Nullable", "11-Nullable\11-Nullable.csproj", "{ABC5A6C2-7B8C-4F91-9E28-1087A152B4D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11-Nullable", "11-Nullable\11-Nullable.csproj", "{ABC5A6C2-7B8C-4F91-9E28-1087A152B4D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-Arrays01", "12-Arrays01\12-Arrays01.csproj", "{01EF3E16-8D34-470A-B608-32566C5735BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12-Arrays01", "12-Arrays01\12-Arrays01.csproj", "{01EF3E16-8D34-470A-B608-32566C5735BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-Arrays02", "13-Arrays02\13-Arrays02.csproj", "{A0EC89C6-17C3-4B40-B8B1-01CDBF251DD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-Arrays02", "13-Arrays02\13-Arrays02.csproj", "{A0EC89C6-17C3-4B40-B8B1-01CDBF251DD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-Array-Exercicio", "14-Array-Exercicio\14-Array-Exercicio.csproj", "{D74058D4-1026-48C2-A65D-1485C15EF5E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14-Array-Exercicio", "14-Array-Exercicio\14-Array-Exercicio.csproj", "{D74058D4-1026-48C2-A65D-1485C15EF5E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-ModificadoresParametrosParams", "15-ModificadoresParametrosParams\15-ModificadoresParametrosParams.csproj", "{BA57BB3B-7EF5-4834-9F5E-F821AA005FEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15-ModificadoresParametrosParams", "15-ModificadoresParametrosParams\15-ModificadoresParametrosParams.csproj", "{BA57BB3B-7EF5-4834-9F5E-F821AA005FEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-ModificadoresParametrosRefOut", "16-ModificadoresParametrosRefOut\16-ModificadoresParametrosRefOut.csproj", "{C17BFE58-3300-418C-A7F2-9CC0B1393FA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16-ModificadoresParametrosRefOut", "16-ModificadoresParametrosRefOut\16-ModificadoresParametrosRefOut.csproj", "{C17BFE58-3300-418C-A7F2-9CC0B1393FA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-Foreach", "17-Foreach\17-Foreach.csproj", "{6585E888-3511-48E8-A11D-FF249DC4BFF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17-Foreach", "17-Foreach\17-Foreach.csproj", "{6585E888-3511-48E8-A11D-FF249DC4BFF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-Lista01", "18-Lista01\18-Lista01.csproj", "{5D1AE9DA-09F2-4A1F-B56A-7242713F6E83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18-Lista01", "18-Lista01\18-Lista01.csproj", "{5D1AE9DA-09F2-4A1F-B56A-7242713F6E83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-Lista02", "19-Lista02\19-Lista02.csproj", "{FD1003C8-F010-45E4-BAE8-D4A8D53819BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19-Lista02", "19-Lista02\19-Lista02.csproj", "{FD1003C8-F010-45E4-BAE8-D4A8D53819BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-Matrizes", "20-Matrizes\20-Matrizes.csproj", "{0944F73C-729C-4537-B3CF-0DD91C45C542}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{FD1003C8-F010-45E4-BAE8-D4A8D53819BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD1003C8-F010-45E4-BAE8-D4A8D53819BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD1003C8-F010-45E4-BAE8-D4A8D53819BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0944F73C-729C-4537-B3CF-0DD91C45C542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0944F73C-729C-4537-B3CF-0DD91C45C542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0944F73C-729C-4537-B3CF-0DD91C45C542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0944F73C-729C-4537-B3CF-0DD91C45C542}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

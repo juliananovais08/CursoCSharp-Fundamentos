@@ -6,7 +6,12 @@ namespace _17_Foreach
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] nomes = new string[] { "Maria", "Bob", "Alex" };
+
+            foreach (string item in nomes)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }

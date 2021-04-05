@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace _18_Lista01
 {
@@ -6,7 +7,9 @@ namespace _18_Lista01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            List<string> list1 = new List<string>();
+
+            List<string> list2 = new List<string> { "Juliana", "Cleópatra", "Joana"};
         }
     }
 }
