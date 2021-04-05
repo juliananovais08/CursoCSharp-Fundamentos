@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MODE2v2gPr+W8Y3/y6QiPAvnSZyWQz5Awb2g7UyQo9pdDvmXqg+51so3lkS+14DFwsqB/OYIYaCELOyJaCqhZQ==",
+  "dgSpecHash": "fhz+NiKz0smbSyVQBIp6B5nR3ef0cH9okCR1YRflRfYy5vBtnl1+EZ3bAWjnatDFr0+YE21yCNrXABWLnEhFAg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Estudos\\C#\\Fundamentos\\04-Sobrecarga\\04-Sobrecarga.csproj",
+  "projectFilePath": "C:\\Users\\juliana.zacharias\\Documents\\arquivos_juliana\\meus_projetos\\CursoCSharp-Fundamentos\\04-Sobrecarga\\04-Sobrecarga.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

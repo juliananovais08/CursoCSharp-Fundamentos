@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\julia\\.nuget\\packages\\": {}
+    "C:\\Users\\juliana.zacharias\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Estudos\\C#\\Fundamentos\\04-Sobrecarga\\04-Sobrecarga.csproj",
+      "projectUniqueName": "C:\\Users\\juliana.zacharias\\Documents\\arquivos_juliana\\meus_projetos\\CursoCSharp-Fundamentos\\04-Sobrecarga\\04-Sobrecarga.csproj",
       "projectName": "04-Sobrecarga",
-      "projectPath": "C:\\Projetos\\Estudos\\C#\\Fundamentos\\04-Sobrecarga\\04-Sobrecarga.csproj",
-      "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Estudos\\C#\\Fundamentos\\04-Sobrecarga\\obj\\",
+      "projectPath": "C:\\Users\\juliana.zacharias\\Documents\\arquivos_juliana\\meus_projetos\\CursoCSharp-Fundamentos\\04-Sobrecarga\\04-Sobrecarga.csproj",
+      "packagesPath": "C:\\Users\\juliana.zacharias\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\juliana.zacharias\\Documents\\arquivos_juliana\\meus_projetos\\CursoCSharp-Fundamentos\\04-Sobrecarga\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\juliana.zacharias\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +32,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nexus.vitreo.local:8081/repository/nuget-hosted": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
