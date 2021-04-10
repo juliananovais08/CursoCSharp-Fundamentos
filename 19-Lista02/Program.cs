@@ -55,7 +55,7 @@ namespace _19_Lista02
                 Console.WriteLine(obj);
             }
 
-            list.RemoveRange(3, 2); //a partir da posição 3, remove2 elementos
+            list.RemoveRange(3, 2); //remove2 elementos, a partir da posição 3
             Console.WriteLine("---------------------");
             foreach (string obj in list)
             {
