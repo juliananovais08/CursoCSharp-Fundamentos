@@ -55,15 +55,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25-FuncoesParaString", "25-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26-DateTime", "26-DateTime\26-DateTime.csproj", "{6D20D382-C4F0-4C7D-8A46-31677A2920FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27-TimeSpan", "27-TimeSpan\27-TimeSpan.csproj", "{1D58C92E-E8D5-44D1-A235-741A89F8383E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27-TimeSpan", "27-TimeSpan\27-TimeSpan.csproj", "{1D58C92E-E8D5-44D1-A235-741A89F8383E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28-PropriedadesOperacoesDateTime", "28-PropriedadesOperacoesDateTime\28-PropriedadesOperacoesDateTime.csproj", "{790434DF-BAB9-402F-A56E-7802AC5967CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28-PropriedadesOperacoesDateTime", "28-PropriedadesOperacoesDateTime\28-PropriedadesOperacoesDateTime.csproj", "{790434DF-BAB9-402F-A56E-7802AC5967CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29-PropriedadesOperacoesTimeSpan", "29-PropriedadesOperacoesTimeSpan\29-PropriedadesOperacoesTimeSpan.csproj", "{D1B861C0-5B54-4CED-B10C-6F604335CF13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29-PropriedadesOperacoesTimeSpan", "29-PropriedadesOperacoesTimeSpan\29-PropriedadesOperacoesTimeSpan.csproj", "{D1B861C0-5B54-4CED-B10C-6F604335CF13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30-DateTimeKindPadraoISO", "30-DateTimeKindPadraoISO\30-DateTimeKindPadraoISO.csproj", "{E1567BE6-7C88-4E54-B9E3-32417E36FC3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30-DateTimeKindPadraoISO", "30-DateTimeKindPadraoISO\30-DateTimeKindPadraoISO.csproj", "{E1567BE6-7C88-4E54-B9E3-32417E36FC3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31-Enumeracoes", "31-Enumeracoes\31-Enumeracoes.csproj", "{E5C66046-A557-497B-8DA5-5666A96F3DA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31-Enumeracoes", "31-Enumeracoes\31-Enumeracoes.csproj", "{E5C66046-A557-497B-8DA5-5666A96F3DA1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32-Heranca", "32-Heranca\32-Heranca.csproj", "{69E663B3-1C51-498B-88C2-DEDC1695CA8A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "33-Sobreposicao-Override-Virtual-Base", "33-Sobreposicao-Override-Virtual-Base\33-Sobreposicao-Override-Virtual-Base.csproj", "{168ABD32-A62A-4EE3-820D-A1EAF7CD00D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34-ClasseAbstrata", "34-ClasseAbstrata\34-ClasseAbstrata.csproj", "{A048414C-2E86-4AE4-B370-436EA41F39F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +201,18 @@ Global
 		{E5C66046-A557-497B-8DA5-5666A96F3DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5C66046-A557-497B-8DA5-5666A96F3DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5C66046-A557-497B-8DA5-5666A96F3DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69E663B3-1C51-498B-88C2-DEDC1695CA8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E663B3-1C51-498B-88C2-DEDC1695CA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E663B3-1C51-498B-88C2-DEDC1695CA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E663B3-1C51-498B-88C2-DEDC1695CA8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{168ABD32-A62A-4EE3-820D-A1EAF7CD00D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{168ABD32-A62A-4EE3-820D-A1EAF7CD00D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{168ABD32-A62A-4EE3-820D-A1EAF7CD00D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{168ABD32-A62A-4EE3-820D-A1EAF7CD00D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A048414C-2E86-4AE4-B370-436EA41F39F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A048414C-2E86-4AE4-B370-436EA41F39F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A048414C-2E86-4AE4-B370-436EA41F39F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A048414C-2E86-4AE4-B370-436EA41F39F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
